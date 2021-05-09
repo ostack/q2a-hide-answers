@@ -1,0 +1,12 @@
+{
+  "name": "Q2A Answer Hide",
+  "uri": "http://www.ostack.cn",
+  "description": "Support admin set minimum user point that can see the answers",
+  "version": "1.0.0",
+  "date": "2021-03-28",
+  "author": "Zhao Guangyue",
+  "author_uri": "http://www.ostack.cn",
+  "min_q2a": "1.5",
+  "min_php": "5.1.6"
+  "load_order": "after_db_init"
+}
